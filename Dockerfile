@@ -1,5 +1,5 @@
 FROM node:latest
-MAINTAINER davyyy, dawei.si@qq.com
+MAINTAINER vcakes, vcakesxyz@outlook.com
 
 # install hexo
 RUN npm install hexo-cli -g
